@@ -6521,15 +6521,19 @@ body {
   padding: 0px 50px 0px 50px;
 }
 .gif-article:before {
-  height: 70%; }
+  height: 70% !important;
+}
 .gif-article .b-game-card {
-  padding-bottom: 205px !important; }
+  padding-bottom: 205px !important;
+}
 .gif-article .b-game-card__cover {
   background-size: auto !important;
-  height: 196px !important; }
+  height: 196px !important;
+}
 
 .gif-article-about {
-  margin-top: -50px !important; }
+  margin-top: -50px !important;
+}
 
 header {
   padding: 30px;

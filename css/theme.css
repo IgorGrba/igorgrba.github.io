@@ -6520,6 +6520,16 @@ body {
   background: #101010;
   padding: 0px 50px 0px 50px;
 }
+.gif-article:before {
+  height: 70%; }
+.gif-article .b-game-card {
+  padding-bottom: 205px !important; }
+.gif-article .b-game-card__cover {
+  background-size: auto !important;
+  height: 196px !important; }
+
+.gif-article-about {
+  margin-top: -50px !important; }
 
 header {
   padding: 30px;
